@@ -1,3 +1,2 @@
-print("Starting development of feature A")
-print("feature a")
-print("user dashboard")
+print("This is the start of developing feature a")
+print("it will the creation of user dashboard")
